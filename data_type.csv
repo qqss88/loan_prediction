@@ -1,0 +1,15 @@
+feature	type
+Gender	category
+Married	category
+Dependents	category
+Education	category
+Self_Employed	category
+ApplicantIncome	category
+CoapplicantIncome	cont
+LoanAmount	cont
+Loan_Amount_Term	cont
+Credit_History	cont
+Property_Area	category
+Loan_Status	category
+LoanAmount_Bin	category
+Loan_Status_Coded	category
